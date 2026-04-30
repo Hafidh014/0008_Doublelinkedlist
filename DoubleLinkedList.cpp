@@ -39,5 +39,8 @@ public:
                 return;
             }
 
+            newNode->next = START;
+
+        }
     }
 }
