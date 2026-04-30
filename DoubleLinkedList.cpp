@@ -29,5 +29,5 @@ public:
         
         Node *newNode = new Node();
 
-        NewNode ->noMhs = nim;
+        NewNode->noMhs = nim;
 }
